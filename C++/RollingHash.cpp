@@ -1,6 +1,6 @@
-/*
- * C++ Program to Implement Rolling Hash
- */
+
+// C++ Program to Implement Rolling Hash
+
 #include <iostream>
 #include <string>
 using namespace std;
